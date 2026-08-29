@@ -136,17 +136,7 @@ freeCodeCamp
 
 ---
 
-## 📊 GitHub
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ian-Karim&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Karim&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
----
 
 <div align="center">
 
