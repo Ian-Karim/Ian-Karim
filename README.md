@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E2E,55:F49FB2,100:5BC0EB&height=210&section=header&text=Ian%20Karim&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20QA%20Software%20Developer&descAlignY=57&descSize=19&animation=fadeIn" width="100%" alt="Banner Ian Karim" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E2E,55:F49FB2,100:5BC0EB&height=210&section=header&text=Ian%20Karim&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%20QA&descAlignY=57&descSize=19&animation=fadeIn" width="100%" alt="Banner Ian Karim" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=5BC0EB&center=true&vCenter=true&width=650&lines=Ingeniero+en+Inform%C3%A1tica+%C2%B7+UPIICSA-IPN+%F0%9F%8E%93;Full-Stack+Web+Developer+%C2%B7+PHP+8+%26+Java+Spring+Boot;QA+Automation+%C2%B7+PHPUnit+%C2%B7+Playwright+%C2%B7+k6+%F0%9F%A7%AA;APIs+REST+%C2%B7+Docker+%C2%B7+Integraciones+con+IA+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=5BC0EB&center=true&vCenter=true&width=650&lines=Ingeniero+en+Inform%C3%A1tica+%C2%B7+UPIICSA-IPN+%F0%9F%8E%93;Full-Stack+Web+Developer+%C2%B7+PHP+8+y+Java+Spring+Boot;QA+Automation+%C2%B7+PHPUnit+%C2%B7+Playwright+%C2%B7+k6+%F0%9F%A7%AA;APIs+REST+%C2%B7+Docker+%C2%B7+Integraciones+con+IA+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 
   <p>
